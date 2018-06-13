@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #version test 2
+
+
+>>>>>>> 6a013eb5ee8ff49247cafe60d25ffcbac3c93cb9
 #author='zhy'
 import requests
 
